@@ -64,7 +64,6 @@ class Setup
     public function registerOptions()
     {
         register_setting('gf-image-slider-settings-group', 'gf-image-values');
-        register_setting('gf-image-slider-settings-group', 'gf-image-links');
 
     }
 
